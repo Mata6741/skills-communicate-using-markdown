@@ -11,3 +11,7 @@
 ``` javascript
 var myVar = "alakibala";
 ```
+
+- [x] Ser Sigma
+- [x] Ser Guapo
+- [ ] ponerla
